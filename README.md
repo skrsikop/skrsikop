@@ -35,11 +35,22 @@ Welcome to my corner of GitHub! I'm a passionate and creative **front-end web de
 
 ---
 
-## 📌 Projects You Should Check Out
+## 📂 Featured Projects
 
-- [FolioCraft Template](https://buymeacoffee.com/skrsikops/e/403400) – A modern portfolio/agency template (Next.js + Tailwind)
-- [CarePlos](https://careplos.netlify.app/) – Healthcare landing template built with React & Tailwind CSS
-- and more check my portofolio on top = https://skrsikop.vercel.app
+Here are a few of my latest and most polished frontend web templates:
+
+### 🎯 [FolioCraft – Creative Agency Template](https://foliocraft-agency.vercel.app/)
+> A minimal and modern **agency/portfolio** website built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Comes with 6+ pages and smooth animations. Perfect for freelancers or creative studios.
+
+---
+
+### 🩺 [CarePlos – Medical & Healthcare Template](https://careplos.netlify.app/)
+> Responsive and professional template built with **React** and **Tailwind CSS**, designed for clinics, hospitals, and health professionals. Includes contact form, service pages, and more.
+
+---
+
+### 💼 [BrandSphere – Digital Agency Website](https://brandsphere-demo1.vercel.app/)
+> A clean and elegant **digital agency landing page** built using **Next.js** and **Tailwind CSS**, featuring subtle animations and crisp layout. Great for showcasing services and portfolios.
 
 ---
 
