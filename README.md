@@ -1,64 +1,52 @@
-# 👋 Hi there, I'm **SKR Sikop** – Web Developer
+# SkopSystems
 
-Welcome to my corner of GitHub! I'm a passionate and creative **front-end web developer** who loves building clean, responsive, and user-friendly websites using modern technologies like **React**, **Next.js**, **Tailwind CSS**, and more.
-
----
-
-## 🚀 About Me
-
-- 🔭 I specialize in creating high-quality **web templates**, **landing pages**, and **agency websites**
-- 🎨 I care deeply about UI/UX and modern design principles
-- 💡 Constantly learning and staying updated with the latest tools and trends
-- 🌍 Based in **Somalia**, building digital solutions for clients worldwide
+Welcome to **SkopSystems**, the personal portfolio and project hub of Saki — a full-stack SaaS & AI web developer dedicated to building tools that help freelancers and small businesses save time, streamline workflows, and grow with modern web technology.
 
 ---
 
-## 🛠️ Technologies I Use
+## 👋 About Me
 
-- React / Next.js
-- Tailwind CSS / SCSS
-- Framer Motion
-- Git & GitHub
-- mern stack
+Hi! I'm **Saki**, a passionate web developer with experience in:
 
----
+- **Full-stack development:** Next.js, React, Node.js, Express, MongoDB
+- **SaaS applications:** Building production-ready, scalable web apps
+- **AI integration:** Leveraging OpenAI and other APIs for smart tools
+- **Deployment & scaling:** Vercel, Render, Docker, CI/CD pipelines
 
-## 🔗 Connect With Me
-
-| Platform | Link |
-|---------|------|
-| 🌐 Portfolio | [skrsikop.vercel.app](https://skrsikop.vercel.app) |
-| 🎥 TikTok | [@skrsikop8](https://tiktok.com/@skrsikop8) |
-| 🐙 GitHub | [github.com/skrsikop](https://github.com/skrsikop) |
-| 💼 LinkedIn | [linkedin.com/in/skr-sikop-40712a344](https://www.linkedin.com/in/skr-sikop-40712a344/) |
-| 📧 Email | skrsikop@gmail.com |
+I specialize in creating web apps that solve real-world problems for freelancers and small businesses. My goal is to combine clean code, thoughtful UX, and AI-powered automation to create software that truly delivers value.
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Key Projects
 
-Here are a few of my latest and most polished frontend web templates:
-
-### 🎯 [FolioCraft – Creative Agency Template](https://foliocraft-agency.vercel.app/)
-> A minimal and modern **agency/portfolio** website built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Comes with 6+ pages and smooth animations. Perfect for freelancers or creative studios.
-
----
-
-### 🩺 [CarePlos – Medical & Healthcare Template](https://careplos.netlify.app/)
-> Responsive and professional template built with **React** and **Tailwind CSS**, designed for clinics, hospitals, and health professionals. Includes contact form, service pages, and more.
+### 1. [Pitchforge.ai](https://www.pitchforge.site/)
+**AI Proposal Generator for Freelancers**  
+- Helps freelancers create high-quality proposals instantly  
+- Features: AI content generation, customizable templates, analytics  
+- Tech Stack: Next.js, Node.js, MongoDB, OpenAI API, Stripe payments  
+- Users: 500+ active users in first 3 months
 
 ---
 
-### 💼 [BrandSphere – Digital Agency Website](https://brandsphere-demo1.vercel.app/)
-> A clean and elegant **digital agency landing page** built using **Next.js** and **Tailwind CSS**, featuring subtle animations and crisp layout. Great for showcasing services and portfolios.
+## 🚀 Skills & Expertise
+
+- **Frontend:** React, Next.js, TailwindCSS, Framer Motion  
+- **Backend:** Node.js, Express, MongoDB/Postgres, REST & GraphQL APIs  
+- **AI & Automation:** OpenAI API, AI-powered workflow tools  
+- **Deployment:** Vercel, Render, Docker, CI/CD pipelines  
+- **Other Tools:** Git/GitHub, Figma, Stripe, Mailchimp  
 
 ---
 
-### 🤝 Let's Build Together!
+## 📬 Get in Touch
 
-If you're looking for a developer to collaborate on projects, build custom websites, or create high-quality web templates — I'm available for freelance or team opportunities. Let’s connect and create something amazing!
+- LinkedIn: [linkedin.com/in/skopsystems](https://www.linkedin.com/)  
+- Twitter/X: [@SkopSystems](https://twitter.com/)  
+
+I’m always excited to collaborate on projects, share ideas, or explore opportunities. Let’s build something amazing together!
 
 ---
 
-> *“Code is not just syntax, it’s experience turned into interaction.” – SKR Sikop*
+## ⚡ Fun Fact
 
+I enjoy **turning complex ideas into simple, user-friendly web apps** and experimenting with AI to make tools smarter and more efficient.
